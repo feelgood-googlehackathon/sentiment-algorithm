@@ -19,9 +19,7 @@ def score(filename):
     for item in data['data']:
         s = item['text']
         for j in item['entities']['hashtags']:
-            s += " "
-            s += j
-            s += " "
+            s += " " + j + " "
         tweets.append(s)
 
     score = []
