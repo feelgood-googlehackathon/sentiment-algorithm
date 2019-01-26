@@ -1,0 +1,37 @@
+{
+  "data":[ {
+    "text": "Excited to be at the BGN Hackathon!!",
+    "entities": {
+      "hashtags": ["googleoncampus" , "bgn", "google"],
+      "symbols": []
+    }
+  },
+  {
+    "text": "Just has a trash day at work",
+    "entities": {
+      "hashtags": ["down", "justwannaleave", "byefelicia"],
+      "symbols": []
+    }
+  },
+  {
+    "text": "So happy to live the rest of my life with this guy",
+    "entities": {
+      "hashtags": ["maritalbliss", "honeymoon", "mrandmrs", "heputaringonit"],
+      "symbols": []
+    }
+  },
+  {
+    "text": "I guess England didn't do too bad",
+    "entities": {
+      "hashtags": ["footie", "worldcup", "itsnotcominghome"],
+      "symbols": []
+    }
+  },
+  {
+    "text": "Can no one run this country right :angry: :angry: :angry: :angry:",
+    "entities": {
+      "hashtags": ["brexit", "reelection", "theresabae"],
+      "symbols": []
+    }
+  } ]
+}
